@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Wanderson&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 
-<hr  width="100%" size="20px" align="center" background="00bfbf"/>
-
 ### Habilidades principais:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
