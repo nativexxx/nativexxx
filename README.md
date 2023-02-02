@@ -25,7 +25,7 @@
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.icons8.com/color/480/null/my-sql.png">
-  <img align="center" alt="MySQL" height="30" width="40" title="MY-SQL"   src="https://img.icons8.com/color/480/null/my-sql.png" style="max-width: 100%;">
+  <img align="center" alt="MySQL" height="40" width="50" title="MY-SQL"   src="https://img.icons8.com/color/480/null/my-sql.png" style="max-width: 100%;">
 </a>
   
 
