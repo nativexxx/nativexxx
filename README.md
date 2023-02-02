@@ -23,12 +23,13 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.icons8.com/3d-fluency/94/null/github.png">
   <img align="center" alt="github" height="30" width="40" src="https://img.icons8.com/3d-fluency/94/null/github.png" style="max-width: 100%;">
 </a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.icons8.com/external-soft-fill-juicy-fish/120/1FB141/icons8-new-logo.png">
+  <img align="center" alt="github" height="30" width="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/120/1FB141/icons8-new-logo.png" style="max-width: 100%;">
+</a>
   
-  <a target="_blank" rel="noopener noreferrer nofollow" href="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://img.icons8.com/external-soft-fill-juicy-fish/60/null/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://img.icons8.com/external-soft-fill-juicy-fish/60/null/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)" style="max-width: 100%;"></a>
-  
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"></a>
+
+
   
 
   <div align="center">
