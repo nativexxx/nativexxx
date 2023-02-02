@@ -24,8 +24,8 @@
   <img align="center" alt="github" height="30" width="40" src="https://img.icons8.com/3d-fluency/94/null/github.png" style="max-width: 100%;">
 </a>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.icons8.com/external-soft-fill-juicy-fish/480/1FB141/icons8-new-logo.png " />
-  <img align="center" alt="github" height="30" width="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/480/1FB141/icons8-new-logo.png" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn-icons-png.flaticon.com/512/919/919836.png">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" style="max-width: 100%;">
 </a>
   
 
