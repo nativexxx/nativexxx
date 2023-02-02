@@ -16,8 +16,8 @@
   
 ### Estudando neste momento::
 
-<a target="_blank" rel="noopener noreferrer nofollow" title="Python" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="Rafa-Python" height="30" width="40"  title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  style="max-width: 100%;">
 </a>
   
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.icons8.com/3d-fluency/94/null/github.png">
