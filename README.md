@@ -16,7 +16,7 @@
   
 ### Estudando neste momento::
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"></a>
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
