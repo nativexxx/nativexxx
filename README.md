@@ -16,8 +16,9 @@
   
 ### Estudando neste momento::
 
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white;
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
