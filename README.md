@@ -29,7 +29,7 @@
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="http://cursos.unipampa.edu.br/cursos/engenhariadesoftware/files/2016/08/Logo-ES-Fundo-branco.png">
-  <img align="center" alt="Engenharia de Software" height="30" width="40" title="MY-SQL"   title="Engenharia de Software" src="http://cursos.unipampa.edu.br/cursos/engenhariadesoftware/files/2016/08/Logo-ES-Fundo-branco.png" style="max-width: 100%;">
+  <img align="center" alt="Engenharia de Software" height="40" width="50" title="Engenharia de Software" src="http://cursos.unipampa.edu.br/cursos/engenhariadesoftware/files/2016/08/Logo-ES-Fundo-branco.png" style="max-width: 100%;">
 </a>
   
 
