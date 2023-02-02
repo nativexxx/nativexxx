@@ -16,6 +16,11 @@
   
 ### Estudando neste momento::
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="http://cursos.unipampa.edu.br/cursos/engenhariadesoftware/files/2016/08/Logo-ES-Fundo-branco.png">
+  <img align="center" alt="Engenharia de Software" height="40" width="50" title="Engenharia de Software" src="http://cursos.unipampa.edu.br/cursos/engenhariadesoftware/files/2016/08/Logo-ES-Fundo-branco.png" style="max-width: 100%;">
+</a>
+  
+
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Rafa-Python" height="30" width="40"  title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  style="max-width: 100%;">
 </a>
@@ -28,10 +33,7 @@
   <img align="center" alt="MySQL" height="40" width="40" title="MY-SQL"   src="https://img.icons8.com/color/480/null/my-sql.png" style="max-width: 100%;">
 </a>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="http://cursos.unipampa.edu.br/cursos/engenhariadesoftware/files/2016/08/Logo-ES-Fundo-branco.png">
-  <img align="center" alt="Engenharia de Software" height="40" width="50" title="Engenharia de Software" src="http://cursos.unipampa.edu.br/cursos/engenhariadesoftware/files/2016/08/Logo-ES-Fundo-branco.png" style="max-width: 100%;">
-</a>
-  
+
 
 
   
