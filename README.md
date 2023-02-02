@@ -16,7 +16,7 @@
   
 ### Estudando neste momento::
 
-<a target="_blank" rel="noopener noreferrer nofollow" name="Python" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+<a target="_blank" rel="noopener noreferrer nofollow" data-tooltip="Python" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  style="max-width: 100%;">
 </a>
   
