@@ -29,7 +29,7 @@
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgujqrppcUH1qsIGmKGAYw1xZajtM2CL_i71bg69yOokxTHn-l-HoUPZkr-0Py_gPyGRE&usqp=CAU">
-  <img align="center" alt="MySQL" height="40" width="40" title="MY-SQL"   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgujqrppcUH1qsIGmKGAYw1xZajtM2CL_i71bg69yOokxTHn-l-HoUPZkr-0Py_gPyGRE&usqp=CAU" style="max-width: 100%;">
+  <img align="center" alt="MySQL" height="30" width="40" title="MY-SQL"   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgujqrppcUH1qsIGmKGAYw1xZajtM2CL_i71bg69yOokxTHn-l-HoUPZkr-0Py_gPyGRE&usqp=CAU" style="max-width: 100%;">
 </a>
   
 
