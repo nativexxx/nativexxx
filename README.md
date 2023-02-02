@@ -25,7 +25,7 @@
 </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?f=webp&w=256">
-  <img align="center" alt="MySQL" height="30" width="40" color="#fff" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?f=webp&w=256" style="max-width: 100%;">
+  <img align="center" alt="MySQL" height="30" width="40" background-color="#fff" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?f=webp&w=256" style="max-width: 100%;">
 </a>
   
 
